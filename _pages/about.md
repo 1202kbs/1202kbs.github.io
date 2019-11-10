@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm currently a 3rd grade Mathematics major undergraduate at Korea Advanced Institute of Science and Technology. My research interests lie  in the intersection of generalization, adversarial robustness, and interpretability in machine learning. I also believe that some day, mathematics will provide us with a unified theory of deep learning, which will allow us to understand the behavior of deep neural networks in a rigorous manner.
 
-So far, I have takes lectures in
+So far, I have taken lectures in
 
 * Vector Calculus (*Vector Calculus* by Susan J. Colley)
 * Probability and Statistics (*Introduction to Probability and Statistics for Engineers and Scientists* by Sheldon M. Ross)
