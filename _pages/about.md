@@ -20,13 +20,12 @@ So far, I have taken lectures in
 * Basic Probability Theory (*Basic Probability Theory* by Robert B. Ash)
 * Optimization Theory (*Optimization Models* by Giuseppe C. Calafiore and Laurent El Ghaoui)
 * Lebesgue Integral Theory (*Real Analysis for Graduate Students* by Richard F. Bass)
-* Fourier Analysis (*Applied Fourier Analysis* by Tim Olson)
 * Basic Machine Learning (Lecture notes written by the professor)
 
 and I plan to study
 
 * Probability Theory (Textbook undecided)
-* Functional Analysis (Textbook undecided)
+* Functional Analysis (*Functional Analysis: An Introduction* by Yuli Eidelman et al.)
 * Ring, Module, and Field Theory (*Abstract Algebra* by David S. Dummit and Richard M. Foote)
 * Algebraic Topology (*Topology* by James Munkres and *Algebraic Topology* by Allen Hatcher)
 * Algebraic Geometry (*An Invitation to Algebraic Geometry* by Karen E. Smith et al.)
