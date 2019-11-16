@@ -24,7 +24,7 @@ So far, I have taken lectures in
 
 and I plan to study
 
-* Probability Theory (Textbook undecided)
+* Probability Theory (*Probability: Theory and Examples* by Rick Durrett)
 * Functional Analysis (*Functional Analysis: An Introduction* by Yuli Eidelman et al.)
 * Ring, Module, and Field Theory (*Abstract Algebra* by David S. Dummit and Richard M. Foote)
 * Algebraic Topology (*Topology* by James Munkres and *Algebraic Topology* by Allen Hatcher)
