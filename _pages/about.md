@@ -27,8 +27,8 @@ and I plan to study
 * Probability Theory (*Probability: Theory and Examples* by Rick Durrett)
 * Functional Analysis (*Functional Analysis: An Introduction* by Yuli Eidelman et al.)
 * Ring, Module, and Field Theory (*Abstract Algebra* by David S. Dummit and Richard M. Foote)
-* Algebraic Topology (*An Introduction to Algebraic Topology* by Joseph J. Rotman)
-* Algebraic Geometry (*Elementary Algebraic Geometry* by Klaus Hulek)
+* Algebraic Topology (*Algebraic Topology* by Allen Hatcher)
+* Algebraic Geometry (*An Invitation to Algebraic Geometry* by Karen E. Smith et al.)
 * Differential Geometry (*Elementary Differential Geometry* by Barrett O'Neill)
 * Manifold Theory (*An Introduction to Manifolds* by Loring W. Tu)
 * Machine Learning, Statistical Learning, Deep Learning, etc.
