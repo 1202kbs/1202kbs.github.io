@@ -22,7 +22,7 @@ So far, I have taken lectures in
 * Lebesgue Integral Theory (*Real Analysis for Graduate Students* by Richard F. Bass)
 * Basic Machine Learning (Lecture notes written by the professor)
 
-and I plan to study
+and I want / plan to study
 
 * Probability Theory (*Probability: Theory and Examples* by Rick Durrett)
 * Functional Analysis (*Functional Analysis: An Introduction* by Yuli Eidelman et al.)
@@ -31,6 +31,7 @@ and I plan to study
 * Algebraic Geometry (*An Invitation to Algebraic Geometry* by Karen E. Smith et al.)
 * Differential Geometry (*Elementary Differential Geometry* by Barrett O'Neill)
 * Manifold Theory (*An Introduction to Manifolds* by Loring W. Tu)
+* Riemannian Geometry (*Riemannian Manifolds: An Introduction to Curvature* by John M. Lee)
 * Machine Learning, Statistical Learning, Deep Learning, etc.
 
 To see my works, visit the [github repository](https://github.com/1202kbs) or [google scholar page](https://scholar.google.com/citations?user=TofIFUgAAAAJ&hl=en).
