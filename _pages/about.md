@@ -32,6 +32,7 @@ and I want / plan to study
 * Differential Geometry (*Elementary Differential Geometry* by Barrett O'Neill)
 * Manifold Theory (*An Introduction to Manifolds* by Loring W. Tu)
 * Riemannian Geometry (*Riemannian Manifolds: An Introduction to Curvature* by John M. Lee)
+* Category Theory (*Categories for the Working Mathematician* by Saunders Mac Lane)
 * Machine Learning, Statistical Learning, Deep Learning, etc.
 
 To see my works, visit the [github repository](https://github.com/1202kbs) or [google scholar page](https://scholar.google.com/citations?user=TofIFUgAAAAJ&hl=en).
