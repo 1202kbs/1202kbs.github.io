@@ -29,7 +29,7 @@ and I want / plan to study
 * Ring, Module, and Field Theory (*Abstract Algebra* by David S. Dummit and Richard M. Foote)
 * Algebraic Topology (*Algebraic Topology* by Allen Hatcher)
 * Algebraic Geometry (*An Invitation to Algebraic Geometry* by Karen E. Smith et al.)
-* Differential Geometry (*Elementary Differential Geometry* by Barrett O'Neill)
+* Differential Geometry (*Differential Geometry of Curves and Surfaces* by Manfredo P. Do Carmo)
 * Manifold Theory (*An Introduction to Manifolds* by Loring W. Tu)
 * Riemannian Geometry (*Riemannian Manifolds: An Introduction to Curvature* by John M. Lee)
 * Category Theory (*Categories for the Working Mathematician* by Saunders Mac Lane)
