@@ -26,11 +26,11 @@ and I want / plan to study
 
 * Probability Theory (*Probability: Theory and Examples* by Rick Durrett)
 * Functional Analysis (*Functional Analysis: An Introduction* by Yuli Eidelman et al.)
-* Ring, Module, and Field Theory (*Abstract Algebra* by David S. Dummit and Richard M. Foote)
+* Ring, Module, Field, and Galois Theory (*Abstract Algebra* by David S. Dummit and Richard M. Foote)
 * Algebraic Topology (*Algebraic Topology* by Allen Hatcher)
 * Algebraic Geometry (*An Invitation to Algebraic Geometry* by Karen E. Smith et al.)
-* Differential Geometry (*Differential Geometry of Curves and Surfaces* by Manfredo P. Do Carmo)
 * Manifold Theory (*An Introduction to Manifolds* by Loring W. Tu)
+* Differential Geometry (*Differential Geometry* by Loring W. Tu)
 * Riemannian Geometry (*Introduction to Riemannian Manifolds* by John M. Lee)
 * Category Theory (*Categories for the Working Mathematician* by Saunders Mac Lane)
 * Machine Learning, Statistical Learning, Deep Learning, etc.
