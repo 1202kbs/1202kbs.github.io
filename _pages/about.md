@@ -31,7 +31,7 @@ and I want / plan to study
 * Algebraic Geometry (*An Invitation to Algebraic Geometry* by Karen E. Smith et al.)
 * Differential Geometry (*Differential Geometry of Curves and Surfaces* by Manfredo P. Do Carmo)
 * Manifold Theory (*An Introduction to Manifolds* by Loring W. Tu)
-* Riemannian Geometry (*Riemannian Manifolds: An Introduction to Curvature* by John M. Lee)
+* Riemannian Geometry (*Introduction to Riemannian Manifolds* by John M. Lee)
 * Category Theory (*Categories for the Working Mathematician* by Saunders Mac Lane)
 * Machine Learning, Statistical Learning, Deep Learning, etc.
 
