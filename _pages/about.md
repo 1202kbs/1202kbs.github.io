@@ -20,6 +20,7 @@ So far, I have taken math lectures in (I have omitted a few basic courses)
 * Basic Probability Theory (*Basic Probability Theory* by Robert B. Ash)
 * Optimization Theory (*Optimization Models* by Giuseppe C. Calafiore and Laurent El Ghaoui)
 * Lebesgue Integral Theory (*Real Analysis for Graduate Students* by Richard F. Bass)
+* Fourier Analysis (*Applied Fourier Analysis* by Tim Olson)
 * Basic Machine Learning (Lecture notes written by the professor)
 
 and I want / plan to study
